@@ -35,8 +35,8 @@ You only need two ZIP archives. **No installation wizard or administrator creden
 
 | File | Purpose | Source / Location |
 | :--- | :--- | :--- |
-| **`dba_slow_sql_triage_airgapped_bundle.zip`** *(Recommended for No-Internet Jump Boxes)* | Complete app code, collector script, launcher, **plus all pre-packaged offline wheels** (~5.6 MB). Zero internet needed! | `dist/` folder / Shared drive / USB |
-| **`dba_slow_sql_triage_latest.zip`** *(Lightweight)* | Standard app code (~58 KB) for machines with internet or proxy. | `dist/` folder |
+| **`dba_slow_sql_triage_airgapped_bundle.tar`** *(Recommended for No-Internet Jump Boxes)* | Complete app code, collector script, launcher, **plus all pre-packaged offline wheels** (~5.6 MB). Zero internet needed! | `dist/` folder / Shared drive / USB |
+| **`dba_slow_sql_triage_latest.tar`** *(Lightweight)* | Standard app code (~58 KB) for machines with internet or proxy. | `dist/` folder |
 | **`WinPython64-3.13.15.1dotb1.zip`** | Portable standalone Python runtime (pure ZIP, not an installer). | [WinPython Releases](https://github.com/winpython/winpython/releases) |
 
 
@@ -59,7 +59,7 @@ You only need two ZIP archives. **No installation wizard or administrator creden
    ```
 
 ### Step 3.3: Extract the Triage Application
-1. Place `oracle_dba_slow_sql_triage_latest.zip` into `E:\ranam\`.
+1. Place `oracle_dba_slow_sql_triage_latest.tar` into `E:\ranam\`.
 2. Right-click and choose **Extract All...** to `E:\ranam\oracle_dba_slow_sql_triage`.
 3. You should now see the following directory structure:
    ```
