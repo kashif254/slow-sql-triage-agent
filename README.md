@@ -11,7 +11,7 @@ The **Oracle DBA "Slow SQL" Triage Agent** is a dedicated diagnostic tool create
 It runs locally on your laptop or desktop:
 - **Offline Mode (Default)**: Completely air-gapped, zero external network calls, runs deterministic DBA diagnostic algorithms on your local machine.
 - **LLM Mode (Optional)**: Connects to your choice of AI provider (Google Gemini, Anthropic Claude, OpenAI, or xAI Grok) if an API key and internet access are provided.
-
+- **Future release** will work with locally avaialbe LLM's.
 ```
 +-------------------------------------------------------------------------+
 | Corporate Workstation (No Admin Rights Needed)                          |
@@ -49,6 +49,7 @@ You only need two ZIP archives. **No installation wizard or administrator creden
 2. Navigate to a local folder where your user profile has full write permissions (e.g., `C:\Users\<YourUsername>\Documents`).
 3. *(Example using `E:\ranam`)*:
    - Create `E:\ranam` if it doesn't already exist.'
+     (when you do not have local admin rights)
 
 ### Step 3.2: Extract Portable WinPython
 1. Place `WinPython64-3.13.15.1dotb1.zip` into `E:\ranam\`.
