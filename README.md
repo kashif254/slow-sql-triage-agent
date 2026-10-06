@@ -26,6 +26,10 @@ It runs locally on your laptop or desktop:
 |                             +---------------+                           |
 +-------------------------------------------------------------------------+
 ```
+## Screenshots
+Here's what the tool looks like in action:
+
+<img width="2507" height="987" alt="msedge_pQeIZdgwVb" src="https://github.com/user-attachments/assets/88641bcf-180a-4804-b44f-1f8568641bf0" />
 
 ---
 
