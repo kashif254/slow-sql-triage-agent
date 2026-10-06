@@ -32,6 +32,24 @@ Here's what the tool looks like in action:
 <img width="2507" height="987" alt="msedge_pQeIZdgwVb" src="https://github.com/user-attachments/assets/88641bcf-180a-4804-b44f-1f8568641bf0" />
 
 ---
+<img width="755" height="360" alt="msedge_euJEJBHxnM" src="https://github.com/user-attachments/assets/ee80303f-9504-42cb-a5d4-389031d799b9" />
+
+---
+<img width="2461" height="1224" alt="msedge_Su2hlYcTyv" src="https://github.com/user-attachments/assets/7a4a551d-02c3-4cf8-99b6-0acb9838c710" />
+
+---
+<img width="2236" height="1204" alt="msedge_RyAMxMm3My" src="https://github.com/user-attachments/assets/9c943e40-ed4a-4647-a84d-1f62ebd65d4b" />
+
+---
+<img width="1700" height="912" alt="msedge_lAfaHfb6ub" src="https://github.com/user-attachments/assets/c8fb24ab-9a08-4989-8e89-2c2c1e8b976c" />
+
+---
+<img width="1027" height="1253" alt="msedge_HmrVpwWKvh" src="https://github.com/user-attachments/assets/bbc88d59-1b90-4752-9af8-72a3a4159efe" />
+
+---
+
+---
+
 
 ## 2. Required Packages & Prerequisites
 
